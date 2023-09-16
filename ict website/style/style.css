@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("../images/book.jpeg") ;
+    background-size: cover;
+}
+header{
+    background-color: black;
+    height: 100px;
+    margin-bottom: 200px;
+    margin-top: -54px;
+
+}
+.navigation{
+    float: right;
+    margin-top: 30px;
+    margin-right: 50px;
+}
+.navigation a{
+    text-decoration: none;
+    color: aquamarine;
+    border: 1px solid rgb(234, 224, 224);
+    margin: 5px;
+    padding:10px ;
+} 
+logo{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+ /* navbar styling end */
+
+ /* aside styling start */
+ .side{
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 30px;
+     /* border: 1px solid white; */
+  float: left;
+
+
+ }
+ .side li{
+    padding: 2px;
+    list-style-type: square;
+ }
+ 
+
+
+ /* aside styling start */
+.my_login{
+    border: 2px solid white;
+    float: right;
+    margin-top: 70px;
+    background-color: antiquewhite;
+    height: 13em;
+    padding: 10px;
+    margin-right: 20px;
+}
+#logg{
+    background-color: rgb(65, 65, 176);
+    width: 100px;
+    border: 30px;
+    color: aliceblue;
+    height: 20px;
+}
+ /* login styling end */
+
+.p_box{
+   
+    background-color: antiquewhite;
+    border: 1px solid white;
+    float:left;
+  padding: 20px;
+  padding-right: 20px;
+ }
+
+.p_box1
+{
+    padding-top: 200px;
+padding-left: 20px;
+}
+
+
